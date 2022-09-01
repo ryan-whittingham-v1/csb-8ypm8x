@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/css/main.dd2dd42f.chunk.css",
-    "main.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.f69e68e8.chunk.js",
-    "main.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.f69e68e8.chunk.js.map",
+    "main.css": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/css/main.b51693c2.chunk.css",
+    "main.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.0efd24f6.chunk.js",
+    "main.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.0efd24f6.chunk.js.map",
     "runtime-main.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/runtime-main.d09abb2d.js",
     "runtime-main.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/runtime-main.d09abb2d.js.map",
-    "static/js/2.06637007.chunk.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.06637007.chunk.js",
-    "static/js/2.06637007.chunk.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.06637007.chunk.js.map",
+    "static/js/2.6496c7b2.chunk.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.6496c7b2.chunk.js",
+    "static/js/2.6496c7b2.chunk.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.6496c7b2.chunk.js.map",
     "index.html": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/index.html",
-    "static/css/main.dd2dd42f.chunk.css.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/css/main.dd2dd42f.chunk.css.map",
-    "static/js/2.06637007.chunk.js.LICENSE.txt": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.06637007.chunk.js.LICENSE.txt",
+    "static/css/main.b51693c2.chunk.css.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/css/main.b51693c2.chunk.css.map",
+    "static/js/2.6496c7b2.chunk.js.LICENSE.txt": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.6496c7b2.chunk.js.LICENSE.txt",
     "static/media/16-162890_free-render-for-use-anguirus-1972-toy-hd.77321a54.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/16-162890_free-render-for-use-anguirus-1972-toy-hd.77321a54.png",
+    "static/media/Shimizu_BDPGodzilla_Lg.86c1a8b6.jpg": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/Shimizu_BDPGodzilla_Lg.86c1a8b6.jpg",
     "static/media/godzilla-1954-png-Transparent-Images.52472000.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/godzilla-1954-png-Transparent-Images.52472000.png",
+    "static/media/monsterIsland.202eb30f.jpg": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/monsterIsland.202eb30f.jpg",
     "static/media/rodan_1964_transparent_ver_2_by_jacksondeans_dd3cicy-fullview.b9593d30.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/rodan_1964_transparent_ver_2_by_jacksondeans_dd3cicy-fullview.b9593d30.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d09abb2d.js",
-    "static/js/2.06637007.chunk.js",
-    "static/css/main.dd2dd42f.chunk.css",
-    "static/js/main.f69e68e8.chunk.js"
+    "static/js/2.6496c7b2.chunk.js",
+    "static/css/main.b51693c2.chunk.css",
+    "static/js/main.0efd24f6.chunk.js"
   ]
 }
