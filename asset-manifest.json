@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/css/main.932705eb.chunk.css",
-    "main.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.121bf24e.chunk.js",
-    "main.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.121bf24e.chunk.js.map",
+    "main.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.e4b9662b.chunk.js",
+    "main.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/main.e4b9662b.chunk.js.map",
     "runtime-main.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/runtime-main.5fba724c.js",
     "runtime-main.js.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/runtime-main.5fba724c.js.map",
     "static/js/2.05cbb7bd.chunk.js": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.05cbb7bd.chunk.js",
@@ -11,25 +11,38 @@
     "static/css/main.932705eb.chunk.css.map": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/css/main.932705eb.chunk.css.map",
     "static/js/2.05cbb7bd.chunk.js.LICENSE.txt": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/js/2.05cbb7bd.chunk.js.LICENSE.txt",
     "static/media/247819-eed21ff3-3a39-4790-82fd-870f825ece29.d81b40ec.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/247819-eed21ff3-3a39-4790-82fd-870f825ece29.d81b40ec.mp3",
+    "static/media/GiganImage.19071d01.webp": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/GiganImage.19071d01.webp",
+    "static/media/KingCaesar_image.90b84feb.webp": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/KingCaesar_image.90b84feb.webp",
+    "static/media/Mechagodzilla_image.4f440e3a.webp": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/Mechagodzilla_image.4f440e3a.webp",
     "static/media/Shimizu_BDPGodzilla_Lg.86c1a8b6.jpg": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/Shimizu_BDPGodzilla_Lg.86c1a8b6.jpg",
+    "static/media/anguirusImage.77321a54.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/anguirusImage.77321a54.png",
     "static/media/angurius.179e951e.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/angurius.179e951e.mp3",
     "static/media/gigan-roar.4db57048.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/gigan-roar.4db57048.mp3",
+    "static/media/godzillaImage.52472000.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/godzillaImage.52472000.png",
     "static/media/hedorah-roar.bef0ad62.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/hedorah-roar.bef0ad62.mp3",
+    "static/media/hedorahImage.85bb68bb.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/hedorahImage.85bb68bb.png",
     "static/media/jetJaguar-roar.1b3c3954.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/jetJaguar-roar.1b3c3954.mp3",
+    "static/media/jetJaguar_image.bc9d883f.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/jetJaguar_image.bc9d883f.png",
     "static/media/kingCaesar-roar.02d705a8.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/kingCaesar-roar.02d705a8.mp3",
     "static/media/kong-roar.72911b09.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/kong-roar.72911b09.mp3",
+    "static/media/kong_image.bd76c258.webp": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/kong_image.bd76c258.webp",
     "static/media/mechagodzilla-roar.2693cb15.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/mechagodzilla-roar.2693cb15.mp3",
     "static/media/minila-roar.2926b2a5.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/minila-roar.2926b2a5.mp3",
+    "static/media/minilla_image.251afc9b.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/minilla_image.251afc9b.png",
     "static/media/monsterIsland.202eb30f.jpg": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/monsterIsland.202eb30f.jpg",
     "static/media/mothra-roar.bae9da7f.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/mothra-roar.bae9da7f.mp3",
+    "static/media/mothra_image.805f104f.webp": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/mothra_image.805f104f.webp",
     "static/media/muto-roar.a96a67ad.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/muto-roar.a96a67ad.mp3",
+    "static/media/muto_image.ee74b22b.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/muto_image.ee74b22b.png",
     "static/media/rodan.c8151e66.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/rodan.c8151e66.mp3",
-    "static/media/skullCrawler-roar.1da9749c.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/skullCrawler-roar.1da9749c.mp3"
+    "static/media/rodanImage.b9593d30.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/rodanImage.b9593d30.png",
+    "static/media/skullCrawler-roar.1da9749c.mp3": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/skullCrawler-roar.1da9749c.mp3",
+    "static/media/skullcrawler_image.7902ba60.png": "https://ryan-whittingham-v1.github.io/csb-8ypm8x/static/media/skullcrawler_image.7902ba60.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5fba724c.js",
     "static/js/2.05cbb7bd.chunk.js",
     "static/css/main.932705eb.chunk.css",
-    "static/js/main.121bf24e.chunk.js"
+    "static/js/main.e4b9662b.chunk.js"
   ]
 }
